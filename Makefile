@@ -6,4 +6,7 @@ configure:
 	./heroku_config.sh
 
 dev:
+	./dev.sh
+
+run:
 	./run.sh
