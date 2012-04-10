@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n ShelrHubot
+app: bin/hubot -a irc -n ShelrHubot

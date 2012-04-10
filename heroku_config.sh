@@ -6,3 +6,5 @@ heroku config:add HUBOT_IRC_PORT=6697
 heroku config:add HUBOT_IRC_SERVER_FAKE_SSL="true"
 heroku config:add HUBOT_IRC_UNFLOOD="true"
 heroku config:add HUBOT_IRC_USESSL="true"
+
+heroku ps:scale app=1
