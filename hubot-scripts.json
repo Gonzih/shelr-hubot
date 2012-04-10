@@ -1,6 +1,7 @@
 [
     "redis-brain.coffee",
     "ping.coffee",
+    "httpd.coffee",
     "shipit.coffee",
     "github-issues.coffee"
 ]
