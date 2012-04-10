@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n RedPanda --alias '/'
+web: bin/hubot -a irc -n RedPanda --alias '\'
