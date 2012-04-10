@@ -1,6 +1,6 @@
 export HUBOT_IRC_SERVER="irc.freenode.net"
 export HUBOT_IRC_ROOMS="#hubot-test"
-export HUBOT_IRC_NICK="RedPanda"
+export HUBOT_IRC_NICK="RedPandaDev"
 export HUBOT_IRC_PORT=6697
 #export HUBOT_IRC_NICKSERV_PASSWORD=""
 export HUBOT_IRC_SERVER_FAKE_SSL="true"
